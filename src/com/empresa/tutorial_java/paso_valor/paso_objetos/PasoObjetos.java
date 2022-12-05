@@ -1,6 +1,8 @@
+package com.empresa.tutorial_java.paso_valor.paso_objetos;
+
 import java.util.Arrays;
 
-public class Main {
+public class PasoObjetos {
 
     public static void main(String[] args) {
         System.out.println("\n--- Pasando un int");
